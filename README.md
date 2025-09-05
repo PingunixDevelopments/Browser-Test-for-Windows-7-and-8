@@ -12,3 +12,5 @@ Hey! I did browser tests for Windows 7 and 8 which ran the fasted (browserbench.
 - Firefox 78 = 11.3
 
 - Chromium 109 = 14.3
+
+**Let me know if I need to benchmark another browser**
