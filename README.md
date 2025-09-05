@@ -13,4 +13,6 @@ Hey! I did browser tests for Windows 7 and 8 which ran the fasted (browserbench.
 
 - Chromium 109 = 14.3
 
+- Firefox Nightly = 20.6
+
 **Let me know if I need to benchmark another browser**
