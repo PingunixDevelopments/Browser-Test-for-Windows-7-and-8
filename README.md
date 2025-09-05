@@ -1,5 +1,5 @@
 # Browser-Test-for-Windows-7-and-8
-Hey! I did browser tests for Windows 7 and 8 which ran the fasted (browserbench.org)
+Hey! I did browser tests for Windows 7 and 8 which ran the fasted (browserbench.org) (Higher number is faster and better)
 
 - Supermium = 18.7
 
