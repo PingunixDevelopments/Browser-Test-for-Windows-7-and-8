@@ -17,4 +17,8 @@ Hey! I did browser tests for Windows 7 and 8 which ran the fasted (browserbench.
 
 - Edge = 13.0
 
+- Thorium = 17.9
+
+- R3dfox = 19.9
+
 **Let me know if I need to benchmark another browser**
